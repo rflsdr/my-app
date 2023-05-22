@@ -1,7 +1,7 @@
 // pages/_document.js
 
 import React from 'react';
-import Document, { Html, Head, Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript, Document } from 'next/document';
 import { ServerStyleSheets } from '@mui/material/styles';
 
 class MyDocument extends Document {
